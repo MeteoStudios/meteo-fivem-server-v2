@@ -1,3 +1,3 @@
 2.1.0
-New update avaiable for Meteo Server. Please follow guide and update your server. Thankss!
+New minor fixes. review https://docs.meteofivem.net/servers/meteo-fivem-server/documentation/changelogs and update your server. Thankss!
 2.0.0
