@@ -1,3 +1,3 @@
 2.1.0
-New minor fixes. review https://docs.meteofivem.net/servers/meteo-fivem-server/documentation/changelogs and update your server. Thankss!
+New Minor Fixes. Please Review https://docs.meteofivem.net/servers/meteo-fivem-server/documentation/changelogs#id-2.1.0 and update your server. Thankss!
 2.0.0
