@@ -1,3 +1,3 @@
-2.4.0
-New major bug fixes after our rename update. Please review https://docs.meteofivem.net/servers/meteo-fivem-server/documentation/changelogs#id-2.4.0 and update your server. Thankss!
+2.5.0
+New coke brik making, music casting and more new features. Please review https://docs.meteofivem.net/servers/meteo-fivem-server/documentation/changelogs#id-2.5.0 and update your server. Thankss!
 2.0.0
