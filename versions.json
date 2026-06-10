@@ -1,9 +1,7 @@
 {
-  "latest": "2.5.0",
+  "latest": "2.7.0",
   "minimum": "2.2.0",
   "releases": [
-    { "version": "2.6.0", "critical": false, "message": "test message" },
-    { "version": "2.5.0", "critical": false, "message": "test message 2.5.0" },
-    { "version": "2.2.0", "critical": true,  "message": "security fix" }
+    { "version": "2.7.0", "critical": false, "message": "test message" },
   ]
 }
