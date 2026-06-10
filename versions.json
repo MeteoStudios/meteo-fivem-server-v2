@@ -1,6 +1,6 @@
 {
   "latest": "2.7.0",
-  "minimum": "2.2.0",
+  "minimum": "2.7.0",
   "releases": [
     { "version": "2.7.0", "critical": true, "message": "Major update. Meteo Server now supports qbox and ox inventory with improved security, expanded third-party script compatibility, and codebase improvements for future scalability." },
   ]
